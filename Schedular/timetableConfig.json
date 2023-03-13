@@ -1,0 +1,21 @@
+{
+    "config": {
+        "rooms": [
+            "S510",
+            "S601",
+            "S606",
+            "S301",
+            "S302",
+            "S506"
+        ],
+        "teachers": [
+            "b - physics",
+            "c - maths",
+            "d - English",
+            "e - History",
+            "f - geography",
+            "vi165 - Science",
+            "a - Computer Science"
+        ]
+    }
+}
